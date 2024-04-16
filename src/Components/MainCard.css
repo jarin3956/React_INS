@@ -1,0 +1,14 @@
+.main-card-1 {
+    display: flex;
+    justify-content: center;
+}
+
+.main-card-2 {
+    display: flex;
+    justify-content: center;
+}
+
+.main-card-image {
+    border-radius: 50%;
+    max-height: 500px;
+}
